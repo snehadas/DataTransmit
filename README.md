@@ -1,1 +1,3 @@
 # DataTransmit
+
+The repository comprises of the codes to transmit information from an android device to a deivice running a socket-server. The Android device is the client and the server operates in Python. At the moment the communication is one-way, i.e. from client to server. The Android device blah blah ....
